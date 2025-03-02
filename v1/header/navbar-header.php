@@ -1,4 +1,4 @@
-<nav class="nav-header" style="display: flex; justify-content: space-between;">
+<nav class="navbar-header" style="display: flex; justify-content: space-between;">
     <div><a href="#">Home</a></div>
     <div><a href="#">About</a></div>
     <div><a href="#">Contact</a></div>
